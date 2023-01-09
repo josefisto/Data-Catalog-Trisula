@@ -1,1 +1,1 @@
-# Data-Catalog-Trisula
+# Data Catalog Trisula
